@@ -1,5 +1,3 @@
-# Real_Estate_Price_Prediction_Project
-
 # Real Estate Price Prediction Project
 
 ### Overview
